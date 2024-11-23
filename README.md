@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my GitHub!  
+# 👋 Hello! Welcome to my GitHub Profile!  
 
 Hi, my name is **Rafael**, and I’m a student in the **Multiplatform Software Development** program at **FATEC Jacareí**. Passionate about technology and creating efficient solutions, I primarily work with TypeScript, React, and Node.js. I’m always looking to learn more and build projects that positively impact people's daily lives.  
 
