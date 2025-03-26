@@ -70,7 +70,7 @@ Here are the main projects I’ve worked on:
 ## 📫 How to Find Me  
 
 💌 **Email:** rafaelsoaresdm1408@gmail.com  
-💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+💼 **LinkedIn:** [Rafael Soares de Moraes](www.linkedin.com/in/rafaelsoaresdemoraes)  
 
 ---
 
