@@ -25,7 +25,7 @@ Here are the technologies and tools I’m proficient in:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
 
 ### **Tools and Methodologies**  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  ![SAP](https://img.shields.io/badge/-SAP-333333?style=flat&logo=sap)  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)  ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum)  
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)  ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum)  
 
 ---
 
