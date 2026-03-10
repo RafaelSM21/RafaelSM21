@@ -44,28 +44,6 @@ Here are the main projects I’ve worked on:
 
 ---
 
-## 📊 My Stats  
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=rafaelsm21&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsm21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>  
-
----
 
 ## 📫 How to Find Me  
 
