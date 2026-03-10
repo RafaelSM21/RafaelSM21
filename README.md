@@ -6,7 +6,7 @@ Hi, my name is **Rafael**, and I’m a student in the **Multiplatform Software D
 
 ## 💬 About Me  
 
-- 🎓 Fifth-semester student in **Multiplatform Software Development** at FATEC Jacareí.  
+- 🎓 Sixth-semester student in **Multiplatform Software Development** at FATEC Jacareí.  
 - 💻 Focused on frontend development with **React** and backend development with **Node.js**.  
 - 🚀 Experienced with databases like **PostgreSQL** and **MongoDB**.  
 - 🛠️ Interested in agile methodologies like **Scrum**.  
