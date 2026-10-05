@@ -38,6 +38,14 @@ I hold a degree in **Multiplatform Software Development** from FATEC Jacareí. I
 
 ---
 
+## Personal Projects
+
+| Project | Description | Core Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **[PokeHub](https://pokehub-swart.vercel.app/pokedex)** | A Pokémon competitive analysis platform that goes beyond a traditional Pokédex. It uses an algorithm focused on competitive Pokémon analysis to help create builds, evaluate Pokémon, and analyze team compositions. **Currently available as a demo.** | `TypeScript` `React` `API` `Algorithms` | 📂 **[Repository](https://github.com/RafaelSM21/pokehub-demo)** |
+
+---
+
 ## Academic Projects
 
 The following projects were developed throughout my academic journey at **FATEC Jacareí**, covering different areas of software development, teamwork, databases, APIs, automation, and application architecture.
@@ -53,13 +61,6 @@ The following projects were developed throughout my academic journey at **FATEC 
 
 ---
 
-## Personal Projects
-
-| Project | Description | Core Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| **[PokeHub](https://pokehub-swart.vercel.app/pokedex)** | A Pokémon competitive analysis platform that goes beyond a traditional Pokédex. It uses an algorithm focused on competitive Pokémon analysis to help create builds, evaluate Pokémon, and analyze team compositions. **Currently available as a demo.** | `TypeScript` `React` `API` `Algorithms` | 📂 **[Repository](https://github.com/RafaelSM21/pokehub-demo)** |
-
----
 
 ## Let's Connect!
 
