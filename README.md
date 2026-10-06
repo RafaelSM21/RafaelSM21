@@ -68,7 +68,6 @@ I am always open to discussing new opportunities, projects, or tech in general. 
 
 * **LinkedIn:** [Rafael Soares de Moraes](https://www.linkedin.com/in/rafaelsoaresdemoraes/)
 * **Email:** [rafaelsoaresdm1408@gmail.com](mailto:rafaelsoaresdm1408@gmail.com)
-* **GitHub:** [RafaelSM21](https://github.com/RafaelSM21)
 
 ---
 
